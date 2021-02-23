@@ -4,10 +4,10 @@
 
 ### I'm kang
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 我是一名撸铁爱好者
+- A Computer Engineering Development.
+- 🌱 撸铁爱好者
 - 💬 我从事前端开发，熟练react，vue技术栈。热爱node koa框架
-- ⭐
+- ⭐ 会写点php
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -24,8 +24,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- 暂无
+### 正在做的事情
+- 学习node
+- 学习typscipt
+- 学习数据结构与设计模式
+- react 研究
 
 ### 关于我
 - [技术笔记](暂未开通)

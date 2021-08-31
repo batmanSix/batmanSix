@@ -1,4 +1,4 @@
-## 有些事本来很遥远你做了它就离你近了一点 👋
+## 陈虹妍yyds 👋
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 

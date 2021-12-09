@@ -26,7 +26,7 @@
 
 ### 正在做的事情
 - 学习node
-- 学习typscipt
+- 学习typescipt
 - 学习数据结构与设计模式
 - react 研究
 

@@ -7,7 +7,7 @@
 - A Computer Engineering Development.
 - 🌱 撸铁爱好者
 - 💬 我从事前端开发，熟练react，vue技术栈。热爱node koa框架
-- ⭐ 会写点php
+- ⭐ 会写点php，node
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -26,7 +26,7 @@
 
 ### 正在做的事情
 - 学习node
-- 学习typescipt
+- 学习nest 下一代的node框架
 - 学习数据结构与设计模式
 - react 研究
 

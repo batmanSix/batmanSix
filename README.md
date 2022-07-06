@@ -25,7 +25,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 正在做的事情
-- 学习node
+- 学习vue3
 - 学习nest 下一代的node框架
 - 学习数据结构与设计模式
 - react 研究

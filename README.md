@@ -1,11 +1,10 @@
-## 陈虹妍我老婆yyds 👋
+##  👋
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm kang
 
 - A Computer Engineering Development.
-- 🌱 撸铁爱好者
 - 💬 我从事前端开发，熟练react，vue技术栈。热爱node koa框架
 - ⭐ 会写点php，node
 - ⚡ Fun fact: Data Analysis📊

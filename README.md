@@ -5,8 +5,9 @@
 ### I'm kang
 
 - A Computer Engineering Development.
-- 💬 我从事前端开发，熟练react，vue技术栈。热爱node koa框架
-- ⭐ 会写点php，node
+- 💬 我从事前端开发，熟练react，vue技术栈
+- ⭐ 后端开发 nestjs pgsql mysql drizzle prisma
+- ⭐ 服务端渲染 nextjs 
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -24,10 +25,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 正在做的事情
-- 学习vue3
-- 学习nest 下一代的node框架
-- 学习数据结构与设计模式
-- react 研究
+- 学习rust
+- 学习算法数据结构
+- nextjs trpc 
 
 ### 关于我
 - [技术笔记](暂未开通)
